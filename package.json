@@ -1,6 +1,6 @@
 {
     "name": "depth-chart-hb",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "火币深度图，用于数字交易所使用",
     "main": "lib/index.js",
     "license": "MIT",
@@ -11,7 +11,7 @@
         "火币"
     ],
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "push": "npm publish"
     },
     "author": "刘文柱",
     "files": [

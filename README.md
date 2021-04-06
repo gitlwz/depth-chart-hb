@@ -6,7 +6,7 @@
 
 ## 安装
 ```sh
-npm install react-redux
+npm install depth-chart-hb
 ```
 
 ## init
