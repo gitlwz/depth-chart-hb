@@ -1,5 +1,9 @@
 # depth-chart-hb
 
+## 例子
+
+[http://gitlwz.gitee.io/depth-chart-hb/](http://gitlwz.gitee.io/depth-chart-hb/)
+
 ## 安装
 ```sh
 npm install react-redux
