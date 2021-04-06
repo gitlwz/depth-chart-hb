@@ -1,5 +1,7 @@
 # depth-chart-hb
 
+> 火币深度图组件，用于数字交易所使用
+
 ## 例子
 
 [http://gitlwz.gitee.io/depth-chart-hb/](http://gitlwz.gitee.io/depth-chart-hb/)
