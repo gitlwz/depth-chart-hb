@@ -10,6 +10,11 @@
         "deptchChart",
         "火币"
     ],
+    "homepage": "https://github.com/gitlwz/depth-chart-hb.git",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gitlwz/depth-chart-hb.git"
+    },
     "scripts": {
         "push": "npm publish"
     },
